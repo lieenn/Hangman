@@ -1,4 +1,4 @@
-#Step 5
+
 from replit import clear
 import random
 import hangman_art
